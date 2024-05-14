@@ -83,7 +83,7 @@ curl -w "\n" -X 'POST' \
 -H 'accept: application/json' \
 -H 'Content-Type: application/json' \
 -d '{ 
-    "id": 2,
+    "id": 6,
     "nombre":"Samsung S23", 
     "categoria": "Electronica", 
     "descripcion": "Celular Samsung S23", 
@@ -99,7 +99,7 @@ curl -w "\n" -X 'POST' \
 -H 'accept: application/json' \
 -H 'Content-Type: application/json' \
 -d '{ 
-    "id": 2,
+    "id": 7,
     "nombre":"Kindle Paperwrite", 
     "categoria": "Electronica", 
     "descripcion": "Kindle Paperwrite 10gen", 
